@@ -1,1 +1,5 @@
 outputs/
+lincir/datasets/
+lincir/hf_models/
+lincir/__pycache__
+lincir/submission/
