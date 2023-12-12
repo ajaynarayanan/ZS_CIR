@@ -1,9 +1,11 @@
 ## Language-only Efficient Training of Zero-shot Composed Image Retrieval
 ---
-CSE597 Course Project
-Task: Zero-shot Composed Image Retrieval
-Paper: 
-Original repository: 
+* Fall 2023, CSE 597: Vision and Language Course Project offered at Penn State University
+* Task: Zero-shot Composed Image Retrieval
+
+### Dataset and Environment Setup
+
+* Please refer to [LinCIR's README](lincir/README.md) for dataset preparation, environment setup, and a description of files.
 
 ### Training
 * Script to train LinCIR (uses CC3M, Stable Diffusion Prompts datasets) model.
